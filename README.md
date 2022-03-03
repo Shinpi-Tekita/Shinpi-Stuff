@@ -1,2 +1,2 @@
-# chat-bot
-> The Easiest Chat Bot
+# @Shinpi/Chat_Bot
+> The Easiest Chat Bot To Use I Think
