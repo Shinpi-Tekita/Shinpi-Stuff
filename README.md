@@ -1,4 +1,4 @@
 # @Shinpi/Chat_Bot
-> The Easiest Chat Bot To Use I Think
+> The Very Easy Chat Bot. HopeFully
  
 > COMING SOON
