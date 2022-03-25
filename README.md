@@ -1,4 +1,6 @@
-# @Shinpi/Chat_Bot
-> The Very Easy Chat Bot. HopeFully
+# @Shinpi/Stuff
+> My Stuff Such As My Api My Website Blah Blah Blah
  
-> COMING SOON
+> Package
+> [Website](https://shinpitekita.repl.co/home)
+> [Api](https://shinpitekita.repl.co/api)
