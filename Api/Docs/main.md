@@ -19,17 +19,17 @@ console.log(fetched.data.text)
 ```
 ## Owoify
 Modifies Your Text To A Funny OWO Text<br>
-[Example](https://shinpitekita.repl.co/api/owoify?text=this+is+example)
+[Example](https://shinpitekita.repl.co/api/owoify?text=this+is+example)<br>
 EndPoint: **/api/owoify?text={your text}**
 ## Reverse
 Reverse Your Text<br>
-[Example](https://shinpitekita.repl.co/api/reverse?text=this+is+example)
+[Example](https://shinpitekita.repl.co/api/reverse?text=this+is+example)<br>
 EndPoint: **/api/reverse?text={your text}**
 ## Random Hex
 Get A Random Hex Code<br>
-[Example](https://shinpitekita.repl.co/api/hex)
+[Example](https://shinpitekita.repl.co/api/hex)<br>
 EndPoint: **/api/hex**
 ## Replace Word
-Looks For A Word And Replaces It With Another Word
-[Example](https://shinpitekita.repl.co/api/replaceword?text=hello&replace=hi&sentence=hello%20i%20like%20cookies)
+Looks For A Word And Replaces It With Another Word<br>
+[Example](https://shinpitekita.repl.co/api/replaceword?text=hello&replace=hi&sentence=hello%20i%20like%20cookies)<br>
 EndPoint: **/api/replaceword?text={word to find}&replace={replace with}&sentence={your sentence}**
