@@ -7,7 +7,7 @@ https://shinpitekita.repl.co/api/{enpoint}
 
 As of writing, there only 4 endpoints that have been added!
 
-Most of the current endpoints just require you to get;
+Most of the current endpoints just require you to fetch;
 ```js
 const axios = require('axios'); // You can use any other package for this
 
