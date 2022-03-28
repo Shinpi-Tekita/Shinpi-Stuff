@@ -14,7 +14,7 @@ const axios = require('axios'); // You can use any other package for this
 (async () => {
 const url = 'https://shinpitekita.repl.co/api/{enpoint}'
 const fetched = await axios.get(url);
-console.log(fetched.data.text)
+console.log(fetched.data)
 })();
 ```
 ## Owoify
