@@ -8,3 +8,11 @@ module.exports = {
     
 var random = Math.floor(Math.random() * pps.length);
 var pp = pps[random];
+
+let embed = new MessageEmbed()
+.setTitle(`${interaction.user.username}'s pp size`)
+.setDescription(`8${pp}D`)
+.setColor("#6F8FAF")
+await interaction.reply({embeds: [embed]})
+  },
+};
