@@ -7,6 +7,11 @@
 >
 * Card Game
 * Economy Game
+* Cookie Factory
 * Advanced Tag System
 * Advanced Welcomer System
 >
+
+
+> How To Use Source Code 
+> Use This [Handler](https://github.com/Shinpi-Tekita/advanced-handler)
