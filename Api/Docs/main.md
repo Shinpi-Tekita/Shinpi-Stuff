@@ -21,6 +21,10 @@ console.log(fetched.data)
 Modifies Your Text To A Funny OWO Text<br>
 [Example](https://shinpitekita.repl.co/api/owoify?text=this+is+example)<br>
 EndPoint: **/api/owoify?text={your text}**
+## Meme
+Get A Random Meme From Reddit<br>
+[Example](https://shinpitekita.repl.co/api/meme)<br>
+EndPoint: **/api/meme**
 ## Reverse
 Reverse Your Text<br>
 [Example](https://shinpitekita.repl.co/api/reverse?text=this+is+example)<br>
