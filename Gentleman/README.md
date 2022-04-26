@@ -4,6 +4,8 @@
 > Do /Help For Its Commands And Enjoy Using My Bot That Has Taken Away Lots Of My Time
 > Hey Wanna Help Me Out?, Join The [Discord Server](https://discord.gg/j3YamACwPu') Here You Can See Updates And Anger
 
+![Sexy Gentleman](https://avatars.githubusercontent.com/u/82416698?v=4)
+
 ### Coming Soon To Gentleman
 >
 * Card Game
