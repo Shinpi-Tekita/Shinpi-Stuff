@@ -27,7 +27,7 @@ Get A Random Meme From Reddit<br>
 EndPoint: **/meme?amount={any amount}**
 ## Reverse
 Reverse Your Text<br>
-[Example](https://shinpitekita.repl.co/api/reverse?text=this+is+example)<br>
+[Example](https://shinpitekita.repl.co/reverse?text=this+is+example)<br>
 EndPoint: **/reverse?text={your text}**
 ## Communism
 Get A Random Hex Code<br>
