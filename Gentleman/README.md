@@ -6,13 +6,11 @@
 
 ![Sexy Gentleman](https://avatars.githubusercontent.com/u/82416698?v=4)
 
-### Coming Soon To Gentleman
+### Whats Coming Soon To Gentleman?
 >
 * Card Game
 * Economy Game
-* Cookie Factory
-* Advanced Tag System
-* Advanced Welcomer System
+* More Advanced Automod System And Mod Commands
 >
 
 
